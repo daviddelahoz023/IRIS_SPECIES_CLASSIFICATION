@@ -23,3 +23,7 @@ Este proyecto clasifica especies de flores Iris (Setosa, Versicolor, Virginica) 
 - Dashboard: Predicciones interactivas y visualizaciones.
 
 ## Enlace al Video
+
+## Enlace al streamlit
+https://irisspeciesclassification-hqex67lgfabrs67szjd5hw.streamlit.app/
+
